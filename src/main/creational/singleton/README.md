@@ -2,7 +2,7 @@
 
 The Singleton Design Pattern is a creational design pattern that ensures a class has only one instance and provides a global point of access to it.
 
-⬅️ [Packages](../../) ・ Other languages: [Türkçe](docs/tr/README.md)
+Other languages: [Türkçe](docs/tr/README.md)
 
 <hr/>
 <br>
