@@ -2,7 +2,7 @@
 
 Define an interface for creating an object but let subclasses decide which class to instantiate. Factory Method allows a class to delegate the responsibility of creating an object to its subclasses.
 
-⬅️ [Packages](../../)
+Other languages: [Türkçe](docs/tr/README.md)
 
 <hr/>
 <br/>
