@@ -2,7 +2,7 @@
 
 Specify the kinds of objects to create using a prototypical instance and create new objects by copying prototype.
 
-⬅️ [Packages](../../) ・ Other languages: [Türkçe](docs/tr/README.md)
+Other languages: [Türkçe](docs/tr/README.md)
 
 <hr/>
 <br>
